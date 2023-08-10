@@ -15,7 +15,7 @@ Looking for my first job as a Python developer to start my career and apply my p
 *   Command Line Basics 
 *   Version control tools: Git (GitHub)
 *   Dependency management: pip, poetry
-*   Testing basics: Unittest, Pytest
+*   Testing: Pytest
 
 ## Projects
 
