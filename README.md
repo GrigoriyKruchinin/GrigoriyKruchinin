@@ -1,5 +1,5 @@
 # Hi, I'm Grigoriy 👋
-Python developer 
+Looking for my first job as a Python developer to start my career and apply my programming skills in a professional environment.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=GrigoriyKruchinin&show_icons=true&count_private=true"><img
@@ -8,6 +8,7 @@ Python developer
    <a href="https://github.com/GrigoriyKruchinin/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrigoriyKruchinin&layout=compact"/></a>
 </p>
+
 ## 🛠 Technical Stack
 *   Python programming language
 *   Databases: SQLite, MySQL, PostgreSQL
