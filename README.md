@@ -16,6 +16,7 @@ Python developer
 *   Frameworks: Flask, Django
 *   Web technologies: HTML, CSS, JavaScript
 *   Version control tools: Git (GitHub, GitLab)
+*   Dependency management: pip, poetry
 *   Testing basics: Unittest, Pytest
 *   Basics of asynchronous programming
 *   API basics
