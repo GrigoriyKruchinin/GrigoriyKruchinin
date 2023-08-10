@@ -12,8 +12,8 @@ Looking for my first job as a Python developer to start my career and apply my p
 ## 🛠 Technical Stack
 *   Python programming language
 *   Databases: SQLite, MySQL, PostgreSQL
-*   Frameworks: Flask, Django
-*   Web technologies: HTML, CSS
+// *   Frameworks: Flask, Django
+// *   Web technologies: HTML, CSS
 *   Version control tools: Git (GitHub, GitLab)
 *   Dependency management: pip, poetry
 *   Testing basics: Unittest, Pytest
