@@ -10,12 +10,15 @@ Looking for my first job as a Python developer to start my career and apply my p
 </p>
 
 ## 🛠 Technical Stack
-*   Python 3
-*   CSS and HTML Basics
-*   Command Line Basics 
-*   Version control tools: Git (GitHub)
-*   Dependency management: pip, poetry
-*   Testing: Pytest
+* Python 3
+* CSS and HTML basics
+* Linux (Ubuntu) command line basics
+* Version control tools: Git (GitHub)
+* Automated workflow integration: GitActions
+* Dependency management: pip, poetry
+* Testing: Pytest
+* Integrated development environment (IDE): VScode, Pycharm
+
 
 ## Projects
 
