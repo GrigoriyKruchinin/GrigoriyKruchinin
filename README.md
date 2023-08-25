@@ -18,11 +18,14 @@ Looking for my first job as a Python developer to start my career and apply my p
 * Dependency management: pip, poetry
 * Testing: Pytest
 * Integrated development environment (IDE): VScode, Pycharm
+* Regular Expressions (Regexp)
+* Object Oriented Programming (OOP)
+* HTTP requests
 
 
 ## Projects
 
-*   [Firt Project](https://github.com/GrigoriyKruchinin/python-project-49) - The Brain Games project is a set of mini-games designed to train mental skills and logical thinking.
+*   [First Project](https://github.com/GrigoriyKruchinin/python-project-49) - The Brain Games project is a set of mini-games designed to train mental skills and logical thinking.
 *   [Second Project](https://github.com/GrigoriyKruchinin/python-project-50) - "Difference Calculator" (gendiff) is the second project developed as part of the Hexlet course. It is a command line tool to find differences between two files.
 
 ##
