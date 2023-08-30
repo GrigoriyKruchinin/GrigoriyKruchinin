@@ -1,4 +1,5 @@
-# Hi, I'm Grigoriy 👋
+# Hi, I'm Grigoriy 👋 ![Hexlet Badge](https://img.shields.io/badge/Hexlet-116EF5?logo=hexlet&logoColor=fff&style=for-the-badge)
+
 Looking for my first job as a Python developer to start my career and apply my programming skills in a professional environment.
 
 <p align='center'>
@@ -25,7 +26,7 @@ Looking for my first job as a Python developer to start my career and apply my p
 
 ## Projects
 
-*   [First Project](https://github.com/GrigoriyKruchinin/python-project-49) - The Brain Games project is a set of mini-games designed to train mental skills and logical thinking.
-*   [Second Project](https://github.com/GrigoriyKruchinin/python-project-50) - "Difference Calculator" (gendiff) is the second project developed as part of the Hexlet course. It is a command line tool to find differences between two files.
+*   ["The Brain Games"](https://github.com/GrigoriyKruchinin/python-project-49) -  project is a set of mini-games designed to train mental skills and logical thinking.
+*   ["Difference Calculator"](https://github.com/GrigoriyKruchinin/python-project-50) - is the second project developed as part of the Hexlet course. It is a command line tool to find differences between two files.
 
 ##
