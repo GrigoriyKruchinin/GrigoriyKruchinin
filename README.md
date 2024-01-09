@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Hi, my name is Grigorii, I'm 30 years old and I'm a Python developer👋 🚀</div>  
   
 
