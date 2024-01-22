@@ -1,4 +1,4 @@
-### <div align="center">Hi, my name is Grigorii, I'm 30 years old and I'm a Python developer👋 🚀</div>  
+### <div align="center">Hi, my name is Grigorii and I'm a Python developer👋 🚀</div>  
   
 
 - 🔭 I am looking for a job and I am ready to contribute to your team as a Python developer  
