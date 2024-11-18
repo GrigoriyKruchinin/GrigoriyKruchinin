@@ -16,7 +16,9 @@ Hi, my name is Grigorii and I'm a Python developer👋
 •⚡ My hobbies are football, books, travel and investments
 
 
+
 Technical skills 🚀:
+
 • Languages: Python, SQL
 
 • Frameworks and libraries: Django, DRF, Flask, FastAPI, litestar, aiogram, Pytest, BeautifulSoup
