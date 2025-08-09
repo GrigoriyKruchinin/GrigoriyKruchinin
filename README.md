@@ -1,5 +1,6 @@
 ### <div align="center">Hi, my name is Grigorii and I'm a Python developer👋 </div>  
-  
+
+[![Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobe-acrobat-reader)](https://grigoriykruchinin.github.io/personal-site/resume.pdf)
 
 Hi, my name is Grigorii and I'm a Python developer👋 
 
