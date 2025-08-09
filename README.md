@@ -27,36 +27,6 @@ Hi, my name is Grigorii and I'm a Python developer👋
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 </div>
 
-Technical skills 🚀:
-
-• Languages: Python, SQL
-
-• Frameworks and libraries: Django, DRF, Flask, FastAPI, litestar, aiogram, Pytest, BeautifulSoup
-
-• Frontend: HTML/CSS basic, JavaScript basic, Bootstrap
-
-• DevOps tools: Docker, CI/CD
-
-• Asynchronous tasks and queues: Celery, Redis, Kafka, RabbitMQ
-
-• Working with databases: PostgreSQL, MySQL, SQLite, SQLAlchemy
-
-• Cloud services: AWS, GoogleCloud, YandexCloud
-
-• Tools for teamwork: Git, Jira, Trello, Figma, Notion
-  
-<br/>  
-
-
-## Github Stats  
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=GrigoriyKruchinin&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=GrigoriyKruchinin&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/GrigoriyKruchinin/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrigoriyKruchinin&layout=compact"/></a>
-</p>
-
 
 ## Connect with me  
 <div align="center">
