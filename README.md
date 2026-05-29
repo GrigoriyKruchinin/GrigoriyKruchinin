@@ -1,4 +1,4 @@
-### <div align="center">Hi, I'm Grigorii 👋</div>
+### <div align="center">Hi, I'm Grigorii </div>
 
 <div align="center">
   <a href="https://grigoriykruchinin.github.io/personal-site/">🌐 Personal Website & CV</a>
@@ -10,7 +10,7 @@ Experienced **Backend Engineer** and **Team Lead** specializing in Python ecosys
 
 ---
 
-### 🛠️ Tech Stack & Expertise
+### Tech Stack & Expertise
 
 <table>
   <tr>
